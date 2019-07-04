@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="express_status_detail">
+        <item>Đang trên đường</item>
+        <item>Đang phân phát</item>
+    </string-array>
+    <string-array name="express_status_all">
+        <item>Đang trên đường</item>
+        <item>Đang phân phát</item>
+        <item>Đã giao hàng</item>
+        <item>Không rõ</item>
+        <item>Đã nhận</item>
+        <item>Đã từ chối</item>
+        <item>Bị trả về</item>
+        <item>Không rõ</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>Tối</item>
+        <item>Sáng sớm</item>
+        <item>Buổi sáng</item>
+        <item>Giữa trưa</item>
+        <item>Buổi chiều</item>
+        <item>Chiều muộn</item>
+        <item>Chiều tối</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>Không khí %1$s</item>
+        <item>Không khí %1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s ô nhiễm</item>
+        <item>%1$s ô nhiễm</item>
+        <item>%1$s ô nhiễm</item>
+        <item>%1$s ô nhiễm</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>Tuyệt vời</item>
+        <item>Tốt</item>
+        <item>Khá</item>
+        <item>Trung bình</item>
+        <item>Nặng</item>
+        <item>Nghiêm trọng</item>
+    </string-array>
+	<string-array name="detail_font_size">
+        <item>Nhỏ</item>
+        <item>Bình thường</item>
+        <item>Lớn</item>
+    </string-array>
+	<string-array name="stock_color_schema">
+        <item>Đỏ - lên, Xanh - xuống</item>
+        <item>Xanh - lên, Đỏ - xuống</item>
+    </string-array>
+	 <string-array name="keyword_recommend_unit">
+        <item>Muốn</item>
+        <item>Chỉ cần</item>
+    </string-array>
+    <string-array name="map_keyword">
+        <item>Tắc nghẽn</item>
+        <item>Số km tắc nghẽn</item>
+        <item>Số km chậm</item>
+        <item>Làm đường</item>
+    </string-array>
+    <string-array name="map_title">
+        <item>Cao điểm du lịch</item>
+        <item>Tắc nghẽn nghiêm trọng</item>
+        <item>Giao thông thông suốt</item>
+        <item>Không có tắc nghẽn rõ ràng</item>
+        <item>Giao thông bất thường</item>
+    </string-array>
+    <string-array name="sms_exclude_category">
+        <item>Trả nợ</item>
+    </string-array>
+</resources>
